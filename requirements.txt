@@ -1,0 +1,7 @@
+aiogram>=3.22.0
+aiohttp>=3.12.15
+flask>=3.1.2
+psutil>=7.1.1
+pytelegrambotapi>=4.29.1
+python-dotenv>=1.1.1
+requests>=2.32.5
